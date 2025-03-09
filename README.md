@@ -87,6 +87,11 @@ Website:https://www.iitrpr.ac.in/summer-internship-0
 Eligibility: Students registered for a degree program in any academic institution desirous to carry out Internships at IIT Bhubaneswar shall apply.  
 Deadline: Feb 28 2025  
 Requirements: Transcript, Bonafide certificate, CV, SOP
+## IIT Indore 
+Website:https://www.iiti.ac.in/page/summer-internship-2025-for-ug-students     
+Eligibility: Should be a bonafide UG student of recognized college/ Institute/University with relevant UG program. Should have secured 60% marks in 10+2 or first division. The current CGPA of the student till the last semester should be equivalent to first division  
+Deadline: Feb 28 2025  
+Requirements:   
 ## S. N. Bose National Centre for Basic Sciences
 Website:https://www.bose.res.in/linked-objects/posters/SRP-2025_Advertisement.pdf   
 Eligibility: 1st / 2nd year of M.Sc. or 3rd / 4th year of B.Sc. (4-year programme) or 4th / 5th
@@ -94,7 +99,7 @@ year of Integrated M.Sc. in Physical, Chemical, Biological and Mathematical Scie
 (including Physics, Applied Mathematics, Applied Optics and/or Photonics, Applied Physics,
 Biochemistry, Bioinformatics, Biophysics, Biotechnology, Chemistry, Electronics,
 Engineering Physics, Material Sciences, Nanotechnology)  
-Deadline: March 31 2025  
+Deadline: April 30, 2025  
 Requirements: NOC of given format,CV  
 Note: Students must contact (through email) and get consent of the respective faculty members
 before submitting the online application.
