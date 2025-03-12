@@ -55,7 +55,7 @@ Eligibility: Students who have completed or be currently studying in the 2nd , 3
 B.Sc/B.Tech/BS/BS-MS/B.E (or) 1st year of M.Sc/M.Tech (or) an equivalent program at the time
 of application are encouraged to apply. 
 Deadline: March 21, 2025.          
-Requirements: SOP  
+Requirements: SOP,NOC  
 ## IISER Thiruvananthapuram
 Website: https://physics.iisertvm.ac.in/academics/internships     
 ## IIT Delhi
